@@ -32,7 +32,7 @@ Add
 4. Password: secret
 5. SSH Host: 192.168.56.101
 6. SSH Username: vagrant
-7: SSH Password: Click the key and select the file- /puphpet/files/dot/ssh/id_rsa 
+7. SSH Password: Click the key and select the file- /puphpet/files/dot/ssh/id_rsa 
 
 # Finally
 
