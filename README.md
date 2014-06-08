@@ -42,11 +42,11 @@ Add
 # Changing the setup
 Changes are made in the config.yaml file
 
-1.Change the port (line 10)
+1. Change the port (line 10)
 
     private_network: 192.168.56.101
 
-2.Change the servername (line 104 and 106)
+2. Change the servername (line 104 and 106)
 
     servername: boilerplate.dev
     serveraliases:
