@@ -104,7 +104,7 @@ nginx:
             server_name: boilerplate.dev
             server_aliases:
                 - www.boilerplate.dev
-            www_root: /var/www/ee-boilerplate/web
+            www_root: /var/www/boilerplate/web
             listen_port: '80'
             index_files:
                 - index.php
